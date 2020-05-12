@@ -28,7 +28,7 @@ def main(img_dir, network, hash_size, input_dim, num_hashtables, feature_path, i
 	class_results(img_dir)
 
 	# extract feature
-	AntiFraudFeatureDataset(img_dir, network, feature_path, index_path).constructfeature(hash_size, input_dim, num_hashtables)
+	out_similar_file_dir(img_dir, network, feature_path, index_path).constructfeature(hash_size, input_dim, num_hashtables)
 
 	# similar index
 	EvaluteMap(out_similar_dir, out_similar_file_dir, all_csv_file, feature_path, index_path).retrieval_images()

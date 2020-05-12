@@ -63,7 +63,7 @@ class ImagesFromList(data.Dataset):
         if self.transform is not None:
             img = self.transform(img)
 
-        return img
+        return img, path
 
     def __len__(self):
         return len(self.images_fn)
