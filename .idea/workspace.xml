@@ -2,16 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aa417904-cafe-4a48-a96c-a5d55584c295" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/IMAGE_Retrieval.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Retrieval_Interface.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/classify.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image_retrieval.py" beforeDir="false" afterPath="$PROJECT_DIR$/image_retrieval.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/retrieval_feature.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/retrieval_index.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/demo.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -164,7 +157,7 @@
       <workItem from="1588831738292" duration="15338000" />
       <workItem from="1589250015026" duration="22000" />
       <workItem from="1589275146384" duration="478000" />
-      <workItem from="1589275821052" duration="2330000" />
+      <workItem from="1589275821052" duration="2696000" />
     </task>
     <servers />
   </component>
@@ -224,20 +217,13 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1134" y="241" width="596" height="798" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1589277569054" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1588835958147">
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1589282610745">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1588835958147" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1589282610745" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/image_retrieval.py</url>
-          <line>14</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
           <properties notifyOnTerminate="true" exception="BaseException">

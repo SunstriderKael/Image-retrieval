@@ -2,6 +2,9 @@ from utils.retrieval_feature import AntiFraudFeatureDataset
 from utils.retrieval_index import EvaluteMap
 
 if __name__ == '__main__':
+    """
+    img_dir存放所有图像库的图片，然后拿test_img_dir中的图片与图像库中的图片匹配，并输出top3的图像路径； 
+    """
     hash_size = 0
     input_dim = 2048
     num_hashtables = 1
